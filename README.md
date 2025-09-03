@@ -61,7 +61,7 @@ The dataset contains **synthetic patient records** including demographic, medica
 
 ## 🚀 How to Use
 1. Download the dataset (`health care (version 1).xlsx`).  
-2. Open the **Power BI / Excel dashboard file** (if provided).  
+2. Open the **Power BI / Excel dashboard file** (`dashboard and story us healthcare .xlsx`).  
 3. Explore insights using filters (age, gender, condition, hospital).  
 
 ---
